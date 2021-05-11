@@ -3,7 +3,7 @@
 # For useful gitignore templates see: https://github.com/github/gitignore
 
 #package xml
-# manifest\package.xml
+manifest\package.xml
 # Salesforce cache
 .sfdx/
 .localdevserver/
